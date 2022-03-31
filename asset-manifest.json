@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-app1/static/css/main.b7fb5712.css",
+    "main.js": "/react-app1/static/js/main.eee078c8.js",
+    "static/js/787.8e0de167.chunk.js": "/react-app1/static/js/787.8e0de167.chunk.js",
+    "static/media/press-img-two.png": "/react-app1/static/media/press-img-two.8afcd6f41d1058dbc3c2.png",
+    "static/media/startupinfo.png": "/react-app1/static/media/startupinfo.881954cad136f1b394b0.png",
+    "static/media/press-img-three.png": "/react-app1/static/media/press-img-three.7448a75b2aab6201a6c3.png",
+    "static/media/background.svg": "/react-app1/static/media/background.aa8664b0065c117bfaa4.svg",
+    "static/media/press-img-one.png": "/react-app1/static/media/press-img-one.d4c90de76a29f51b0e7f.png",
+    "static/media/uknews.png": "/react-app1/static/media/uknews.2018c4085c2bac73ef00.png",
+    "static/media/upgrade.png": "/react-app1/static/media/upgrade.fe67803c070ee254e152.png",
+    "static/media/classicinformatics.png": "/react-app1/static/media/classicinformatics.47bea54fb12695a2fbc6.png",
+    "static/media/tech-round-logo.png": "/react-app1/static/media/tech-round-logo.57d2a9759181d5fd9973.png",
+    "static/media/umi.png": "/react-app1/static/media/umi.3544eaf48ad867cf3e99.png",
+    "static/media/mycorporation.png": "/react-app1/static/media/mycorporation.805a4e86a4609f342257.png",
+    "static/media/carolroth.png": "/react-app1/static/media/carolroth.ce5f59626c401fadd769.png",
+    "static/media/logo-header.svg": "/react-app1/static/media/logo-header.af6e3d8451fd682a7faac8c860a60923.svg",
+    "static/media/contact.svg": "/react-app1/static/media/contact.9eecad4c564718579747a032ddcae5c3.svg",
+    "static/media/logo-transparent.webp": "/react-app1/static/media/logo-transparent.95c9d6fdd6598c01e3c8.webp",
+    "static/media/media.svg": "/react-app1/static/media/media.66c9d19d6d5bbeb67295abd92b06d113.svg",
+    "static/media/green.svg": "/react-app1/static/media/green.6539c3ea0fa04e1a38bcab859263d55d.svg",
+    "static/media/violet.svg": "/react-app1/static/media/violet.39baee27c5130a8eef28babe0ab21754.svg",
+    "index.html": "/react-app1/index.html",
+    "main.b7fb5712.css.map": "/react-app1/static/css/main.b7fb5712.css.map",
+    "main.eee078c8.js.map": "/react-app1/static/js/main.eee078c8.js.map",
+    "787.8e0de167.chunk.js.map": "/react-app1/static/js/787.8e0de167.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7fb5712.css",
+    "static/js/main.eee078c8.js"
+  ]
+}
